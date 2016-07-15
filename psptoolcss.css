@@ -1,0 +1,96 @@
+table {
+	border: 2px solid #ff0000;
+	margin: 0 auto;
+	margin-right: 20px;
+	width: 100%;
+	position: relative;
+	display: table;
+	background-color: #ffcccc;
+	-webkit-box-shadow: 10px 10px 75px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 75px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 75px 0px rgba(0,0,0,0.75);
+}
+
+.title {
+	padding: 5px;
+}
+
+#output {
+	border: 2px solid #ff0022;
+	background-color: #ffcccc;
+	-webkit-box-shadow: 10px 10px 75px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 75px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 75px 0px rgba(0,0,0,0.75);
+    margin: 20px;
+}
+div {
+	border: 2px solid #ff0022;
+	padding: 20px;
+	margin: 10px;
+	-webkit-box-shadow: 10px 10px 75px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 75px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 75px 0px rgba(0,0,0,0.75);
+    background-color: #ff9999;
+}
+
+input {
+	width: 500px;
+	
+}
+
+button {
+	margin: 22px;	
+}
+
+body {
+	/*background-color: #ffe6e6;*/
+	font-family: 'Inknut Antiqua', serif;
+	font-size: 10px;
+	background-image: url(http://wallpapercave.com/wp/lf6n9hT.png);
+}
+
+h1 {
+	/*text-shadow:5px 5px 10px #595959;*/
+	font-size: 40px;
+	color: white;
+	text-align: center;
+
+}
+
+button {
+  background: #d43535;
+  background-image: -webkit-linear-gradient(top, #d43535, #b82b2b);
+  background-image: -moz-linear-gradient(top, #d43535, #b82b2b);
+  background-image: -ms-linear-gradient(top, #d43535, #b82b2b);
+  background-image: -o-linear-gradient(top, #d43535, #b82b2b);
+  background-image: linear-gradient(to bottom, #d43535, #b82b2b);
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  text-shadow: 8px 8px 8px #666666;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 12px;
+  padding: 10px 20px 10px 20px;
+  border: solid #730707 2px;
+  text-decoration: none;
+  	background-color: #ffcccc;
+	-webkit-box-shadow: 10px 10px 35px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 35px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 35px 0px rgba(0,0,0,0.75);
+}
+
+button:hover {
+  background: #fc6f3c;
+  background-image: -webkit-linear-gradient(top, #fc6f3c, #d96834);
+  background-image: -moz-linear-gradient(top, #fc6f3c, #d96834);
+  background-image: -ms-linear-gradient(top, #fc6f3c, #d96834);
+  background-image: -o-linear-gradient(top, #fc6f3c, #d96834);
+  background-image: linear-gradient(to bottom, #fc6f3c, #d96834);
+  text-decoration: none;
+}
+
+td {
+	margin: 25px;
+	text-align: left;
+}
